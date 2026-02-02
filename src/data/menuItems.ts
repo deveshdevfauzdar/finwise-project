@@ -6,6 +6,10 @@ export const menuItems: IMenuItem[] = [
         url: "#features"
     },
     {
+        text: "Our Team", // New route added
+        url: "/team"      // Ensure this matches your src/app/team/page.tsx path
+    },
+    {
         text: "Pricing",
         url: "#pricing"
     },

@@ -56,7 +56,7 @@ export default function DataDeletionPage() {
                     <Container>
                         <Section 
                             id="data-deletion-form" // Fixed: Added required ID prop
-                            title="Data Deletion Request" 
+                            title="User Data Deletion Request" 
                             description="Fill out the form below to permanently delete your account and associated data."
                         >
                             <motion.div 

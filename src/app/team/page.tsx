@@ -6,7 +6,7 @@ import Container from "@/components/Container";
 import Section from "@/components/Section";
 
 const teamMembers = [
-  { name: "Gaurav", role: "Founder & CEO", image: "/images/team1.jpg" },
+  { name: "Devesh", role: "Founder & CEO", image: "/images/team1.jpg" },
   { name: "Team Member 2", role: "Financial Advisor", image: "/images/team2.jpg" },
   { name: "Team Member 3", role: "Creative Lead", image: "/images/team3.jpg" },
 ];
